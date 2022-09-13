@@ -21,7 +21,7 @@ To perform a search, users input filter criteria into any, all, or none of the F
 One drawback of this webpage is the unlimited length of the table. While the UFO Finder table is interactive and will change based on filter criteria, it will display
 the total amount of data down the webpage regardless of table length which can make the table overwhelming and create an unpleasing user experience. One recommendation
 to develop this webpage further would be to add the ability to have a fixed table size with the ability to scroll down the table. This would create a cleaner UI with a 
-fixed webpage length and compacted data. A second recommendation would be to add an additional filter for "Keyword" which would build upon the "Description" column of the table. This would allow even more specific searches to find UFO sighting relevant to user interest. For example, to do this the following code could be added within </ul>:
+fixed webpage length and compacted data. A second recommendation would be to add an additional filter for "Keyword" which would build upon the "Description" column of the table. This would allow even more specific searches to find UFO sighting relevant to user interest. For example, to do this the following code could be added within ``` </ul>: ```
 
 ```
 <li class="list-group-item bg-dark">
