@@ -12,6 +12,8 @@ To perform a search, users input filter criteria into any, all, or none of the F
 
 *** ADD FIGURE 2 ***
 
+** EDIT NAME / MAKE SURE APP.JS GOES TO THE RIGHT FILE IN INDEX.HTML **
+
 
 ### Summary
 
